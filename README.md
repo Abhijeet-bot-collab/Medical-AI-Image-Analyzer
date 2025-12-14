@@ -1,4 +1,4 @@
-🩺 Medical Image Analysis App (Qwen + Bytez + Streamlit) 🔍 Project Overview
+# 🩺 Medical Image Analysis App (Qwen + Bytez + Streamlit) 🔍 Project Overview
 
 Ye project ek AI-powered medical image analysis web app hai, jo users ko medical images upload karne deta hai aur AI ke through structured medical-style analysis generate karta hai.
 
